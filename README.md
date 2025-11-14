@@ -1,5 +1,5 @@
 # Code for the Paper  
-**“On the Information Processing of One-Dimensional Wasserstein Distances with Finite Samples”**
+**“On the Information Processing of One-Dimensional Wasserstein Distances with Finite Samples” (AAAI 2026)**
 
 This repository contains the code accompanying the experiments described in the paper.  
 Each section of the paper is linked to a corresponding folder in this repository.
